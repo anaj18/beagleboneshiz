@@ -1,0 +1,8 @@
+First, git init will help you run git.
+Then, git status will help you figure out what needs to be pushed. 
+Next, git add nameoffile.withextension will pick the file that needs to be added. 
+Now, git commit -m "typeamessagehere" will finally add.
+Finally, git push origin master will push to github. 
+Do git status one last time to see which files in red still need to be commited. 
+YA DONE. 
+
